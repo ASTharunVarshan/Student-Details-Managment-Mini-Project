@@ -1,6 +1,6 @@
 /*
 	Title : Student Entry Managment console based mini project
-	Author : Tharun Varshan A S
+	Author : AS Tharunvarshan
 	File : Main.java 
 */
 
